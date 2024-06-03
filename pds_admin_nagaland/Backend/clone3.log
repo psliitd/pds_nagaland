@@ -1,0 +1,26 @@
+
+Log for 'C:\Users\Mahesh\AppData\Local\Temp\2\bf45eb7573d5481b9489c1529a31e72c-pulp.lp' Clone_3 (V22.1.1.0) Tue May 21 12:13:31 2024
+
+Tried aggregator 1 time.
+LP Presolve eliminated 211 rows and 11816 columns.
+Reduced LP has 441 rows, 21560 columns, and 43120 nonzeros.
+Presolve time = 0.05 sec. (19.06 ticks)
+
+Iteration log . . .
+
+Dual simplex solved model.
+
+
+Log for 'C:\Users\Mahesh\AppData\Local\Temp\2\8a26a79ab5f34e4e897539041ca602dd-pulp.lp' Clone_3 (V22.1.1.0) Tue May 21 12:33:42 2024
+
+Tried aggregator 1 time.
+LP Presolve eliminated 211 rows and 11816 columns.
+Reduced LP has 441 rows, 21560 columns, and 43120 nonzeros.
+Presolve time = 0.05 sec. (19.06 ticks)
+
+Iteration log . . .
+Sifting iteration    1 [ 1000]:   Scaled infeas =         56895.930002
+Sifting iteration    2 [ 1918]:   Scaled infeas =             0.000000
+
+Dual simplex solved model.
+

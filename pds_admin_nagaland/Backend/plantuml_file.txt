@@ -1,0 +1,20 @@
+scale 600 width
+scale 400 height
+skinparam sequenceMessageAlign center
+skinparam sequenceArrowThickness 3
+skinparam backgroundColor #FFFFFF
+hide footbox
+title <font color=#000000 size=20> Allocation Movement 
+skinparam sequence{
+ParticipantBorderColor none
+ParticipantBackgroundColor #004699
+ParticipantFontName calibri
+ParticipantFontSize 15
+ParticipantFontColor #ffffff
+}
+participant "FCI\n<size:40><&globe>" as FCI order  1 
+participant "FPS\n<size:40><&vertical-align-top>" as FPS order 2 
+participant "FCI\n<size:40><&globe>" as FCI order  1 
+participant "FPS\n<size:40><&vertical-align-top>" as FPS order 2 
+FCI -[#32a8a0]> FPS: <font color=#0915ed> 69180 
+hnote over FCI, FPS #ffffff: 69180, Qtl Wheat 

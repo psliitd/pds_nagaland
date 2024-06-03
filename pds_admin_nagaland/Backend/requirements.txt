@@ -1,0 +1,10 @@
+numpy
+pymongo
+pandas
+pulp
+xlrd
+flask
+flask-cors
+mysql-connector-python
+requests
+openpyxl
